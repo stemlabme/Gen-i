@@ -1,6 +1,6 @@
-# YB_Module-World
+# Gen-i_Module
 
-Extension for Yahboom YB_Module-World V1.0
+Extension for STEM Lab Gen-i_Module V1.0
 
 ## License
 
