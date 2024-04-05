@@ -1,6 +1,6 @@
 {
     "name": "Gen-i_Module",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Extension for STEM Lab Gen-i_Module V0.0.1",
     "license": "MIT",
     "dependencies": {
